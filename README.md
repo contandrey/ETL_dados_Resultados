@@ -1,6 +1,8 @@
-# ETL_data_Results
-Data processing and obtaining information from the Dataset
-This experiment collects specific data from the dataframe, but first performs the necessary processing on the data to obtain the information.
+# Conhecimentos Alocados 
+Python
+Scikit learn
+Pandas
+Numpy
 
 # ETL_dados_Resultados
 Data processing and obtaining information from the Dataset(Tratamento de dados e obtenção de informações do Dataset)
@@ -13,3 +15,7 @@ df['datetime'] = pd.to_datetime(df['datetime'])
 
 More...
 Saiba mais...
+
+
+https://github.com/contandrey/ETL_dados_Resultados/assets/142995131/75a908ab-e89e-462b-bf91-a7fe3490944c
+
